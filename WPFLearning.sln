@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFLearning", "WPFLearning\WPFLearning.csproj", "{870E0A1E-4C47-4CC2-8F80-0A0E703EF761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{9F4A8338-5230-4B5B-A9C6-6DC94B3C9440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870E0A1E-4C47-4CC2-8F80-0A0E703EF761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870E0A1E-4C47-4CC2-8F80-0A0E703EF761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870E0A1E-4C47-4CC2-8F80-0A0E703EF761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870E0A1E-4C47-4CC2-8F80-0A0E703EF761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4A8338-5230-4B5B-A9C6-6DC94B3C9440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4A8338-5230-4B5B-A9C6-6DC94B3C9440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4A8338-5230-4B5B-A9C6-6DC94B3C9440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4A8338-5230-4B5B-A9C6-6DC94B3C9440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD70A831-1B60-441B-B2E7-D41259BE8C3B}
+	EndGlobalSection
+EndGlobal
